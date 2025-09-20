@@ -132,10 +132,18 @@ body{
       height: 621px;
   }
 
+  .card-header{
+      height: 140px;
+  }
+
   #c1{ transform: translate(35em, -15em);}
   #c2{bottom:150px;left: 170px}
 
   .card{
       width: 85%;
+  }
+
+  .status{
+      margin-top:23px;
   }
 }
